@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+@copyright = AvNikolaouViewTool::Renderer.copyright 'Avraam Nikolaou', 'Developed with love'
+```
 
 ## Development
 
